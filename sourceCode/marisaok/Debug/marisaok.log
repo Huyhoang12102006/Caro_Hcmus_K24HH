@@ -1,0 +1,18 @@
+﻿  marisaok.cpp
+C:\CODEC++\marisaok\board.h(31,12): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+C:\CODEC++\marisaok\board.h(42,16): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+C:\CODEC++\marisaok\board.h(54,16): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+C:\CODEC++\marisaok\board.h(66,12): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+C:\CODEC++\marisaok\board.h(75,12): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+C:\CODEC++\marisaok\pvceasy.h(134,1): warning C4715: 'maydanh': not all control paths return a value
+  marisaok.vcxproj -> C:\CODEC++\marisaok\Debug\marisaok.exe

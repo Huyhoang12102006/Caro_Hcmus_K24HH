@@ -1,0 +1,120 @@
+﻿  marisaok.cpp
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\board.h(40,12): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\board.h(51,16): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\board.h(60,16): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\board.h(71,12): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\board.h(79,12): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\dohoamenu.h(90,16): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\dohoamenu.h(91,18): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\dohoamenu.h(92,16): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\dohoamenu.h(93,15): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\dohoamenu.h(94,15): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\dohoamenu.h(95,15): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\dohoamenu.h(96,15): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\hamve.h(123,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\hamve.h(144,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\hamve.h(161,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\hamve.h(178,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\hamve.h(194,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\hamve.h(215,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\hamve.h(234,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\hamve.h(254,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\hamve.h(279,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\hamve.h(303,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\hamve.h(323,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\hamve.h(343,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\menuviet.h(47,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\menuviet.h(711,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\menuviet.h(808,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\menuviet.h(921,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\menuviet.h(1049,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\menu.h(63,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\menu.h(727,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\menu.h(843,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\menu.h(962,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\menu.h(1075,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\savegame.h(96,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\savegame.h(130,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\savegame.h(134,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\savegame.h(223,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\playgame.h(47,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'marisaok.cpp')
+  
+D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\pvceasy.h(73,1): warning C4715: 'maydanh': not all control paths return a value
+  marisaok.vcxproj -> D:\Cơ sở lập trình\Đồ án Caro\đồ án caro\x64\Debug\marisaok.exe
